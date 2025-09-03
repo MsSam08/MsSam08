@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Euodia  
-🌍 Cloud & Data Engineer | ☁️ AWS Certified | 💧 Hydrology & Environmental Data Enthusiast  
+🌍 Cloud Solutions Architect | Data Science & Engineer | ☁️ AWS Certified | Environmentalist  
 
 ---
 
