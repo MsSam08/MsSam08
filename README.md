@@ -5,16 +5,16 @@
 
 ## 🚀 About Me
 
-I'm a passionate Cloud Data Engineer with a strong background in data science, cloud infrastructure, and environmental analytics. My work blends scalable engineering with insightful analytics — often with a focus on hydrological systems and climate data.
+I'm a passionate Cloud Data Engineer with a strong background in data science, cloud infrastructure, and environmental analytics. My work blends scalable engineering with insightful analytics, often with a focus on hydrological systems and climate data.
 
-I specialize in designing cloud-native data pipelines and dashboards that turn raw data into actionable intelligence. I enjoy working across the stack — from ingestion and modeling to visualization and deployment.
+I specialize in designing cloud-native data pipelines and dashboards that turn raw data into actionable intelligence. I enjoy working across the stack, from ingestion and modeling to visualization and deployment.
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-- Languages: Python, SQL  
-- Cloud & Infrastructure: AWS (S3, Lambda, Glue, RedShift, EC2, IAM), Terraform, Docker  
+- Languages: Python, SQL, Java
+- Cloud & Infrastructure: AWS services, Terraform, Docker  
 - Databases: PostgreSQL, NoSQL (MongoDB, DynamoDB)  
 - Visualization: Power BI, Tableau  
 - Other: Git, Jupyter, Pandas, Apache Spark, Apache Kafka, VSCode
