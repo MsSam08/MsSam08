@@ -31,17 +31,6 @@ I specialize in designing cloud-native data pipelines and dashboards that turn r
 
 ---
 
-## 📌 Featured Projects
-
-Here are a few things I'm working on or proud of:
-
-- 🔄 AWS ETL Pipeline for Rainfall Data – S3 → Lambda → Glue → Athena  
-- 📊 Power BI Dashboard for Groundwater Monitoring  
-- 🌐 Hydrology-focused API using FastAPI & PostgreSQL  
-- 🛰️ Geospatial Data Explorer for rainfall/river flow using Python & Folium
-
----
-
 ## 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/euodia-sam-7b73121a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
