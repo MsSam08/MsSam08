@@ -1,23 +1,27 @@
 # 👋 Hi there, I'm Euodia  
-🌍 Cloud Solutions Architect | Data Science & Engineer | ☁️ AWS Certified | Environmentalist  
+🌍 Cloud Solutions Architect | Data Scientist, AI, ML | ☁️ AWS Certified | Environmentalist  
+
+---
+I’m passionate about leveraging data, machine learning, and cloud technologies to solve practical problems and drive sustainable innovation. My interests lie at the intersection of **data science, artificial intelligence, and cloud engineering**, where I aim to build intelligent, scalable, and impactful solutions.
 
 ---
 
-## 🚀 About Me
-
-I'm a passionate Cloud Data Engineer with a strong background in data science, cloud infrastructure, and environmental analytics. My work blends scalable engineering with insightful analytics, often with a focus on hydrological systems and climate data.
-
-I specialize in designing cloud-native data pipelines and dashboards that turn raw data into actionable intelligence. I enjoy working across the stack, from ingestion and modeling to visualization and deployment.
+### 🧠 About Me  
+- ☁️ Certified **AWS Solutions Architect – Associate**  
+- 📊 Skilled in **Python, SQL, and data visualization tools (Power BI, Tableau)**  
+- 🤖 Exploring **machine learning and AI-driven automation**  
+- 🌱 Interested in applying **data and cloud technologies to environmental sustainability**  
+- 🧩 Currently expanding my skills in **AWS data analytics and engineering workflows**
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-- Languages: Python, SQL, Java
+- Languages: Python, SQL
 - Cloud & Infrastructure: AWS services, Terraform, Docker  
 - Databases: PostgreSQL, NoSQL (MongoDB, DynamoDB)  
 - Visualization: Power BI, Tableau  
-- Other: Git, Jupyter, Pandas, Apache Spark, Apache Kafka, VSCode
+- Other: Jupyter, Pandas, Apache Spark, Apache Kafka, VSCode
 
 ---
 
@@ -30,6 +34,19 @@ I specialize in designing cloud-native data pipelines and dashboards that turn r
 - 🎯 AI/ML for environmental forecasting
 
 ---
+### 🎯 What I’m Working Toward  
+- Enhancing my expertise in **AI and data engineering on AWS**  
+- Building a professional portfolio of **data and cloud-based projects**  
+- Collaborating on open-source and sustainability-focused initiatives  
+
+---
+
+### 🏆 Certifications  
+- 🟢 **AWS Certified Solutions Architect – Associate**  
+- 🟢 **IBM Data Science Professional Certificate** *(in progress)*  
+- 🟢 **Google Data Analytics Certificate** *(in progress)*  
+
+---
 
 ## 📫 Let's Connect
 
@@ -39,4 +56,4 @@ I specialize in designing cloud-native data pipelines and dashboards that turn r
 
 ---
 
-> *“Turning data into decisions — one cloud pipeline at a time.”*
+⭐ *“Transforming data into insight, and insight into sustainable impact.”*
