@@ -35,7 +35,7 @@ I’m passionate about leveraging data, machine learning, and cloud technologies
 
 ---
 ### 🎯 What I’m Working Toward  
-- Enhancing my expertise in **AI and data engineering on AWS**  
+- Enhancing my expertise in ** ML and data engineering on AWS**  
 - Building a professional portfolio of **data and cloud-based projects**  
 - Collaborating on open-source and sustainability-focused initiatives  
 
