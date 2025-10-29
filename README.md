@@ -2,7 +2,7 @@
 
 ### 🌩️ Certified AWS Solutions Architect | Cloud & Data Engineer | AI/ML Enthusiast  
 
-I build solutions that combine **data-driven insights** with **scalable cloud technologies** — helping organizations harness the power of **cloud and data** to drive efficiency, reliability, and smarter decision-making.  
+I build solutions that combine **data-driven insights** with **scalable cloud technologies** helping organizations harness the power of **cloud and data** to drive efficiency, reliability, and smarter decision-making.  
 
 With hands-on expertise in **AWS Cloud**, **data analytics**, and **infrastructure automation**, I design and implement solutions that balance **performance**, **security**, and **cost optimization**.
 
