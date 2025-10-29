@@ -32,7 +32,7 @@ With hands-on expertise in **AWS Cloud**, **data analytics**, and **infrastructu
 
 ## 🎯 **Currently**
 
-🚀 Expanding my expertise in **Data Engineering**, **Artificial Intelligence & Machine Learning**, and **Azure Cloud**.  
+🚀 Expanding my expertise in **Data Engineering**, **Artificial Intelligence & Machine Learning**, Networking and **Azure Cloud**.  
 💡 Passionate about integrating **Cloud, Data, and AI** to deliver solutions that create measurable business impact.  
 📈 Actively building projects that demonstrate automation, analytics, and real-world problem-solving.  
 
@@ -42,7 +42,7 @@ With hands-on expertise in **AWS Cloud**, **data analytics**, and **infrastructu
 
 🌿 **Environmentalist** • 💼 **Entrepreneur** • ✍️ **Writer**  
 
-I believe technology and sustainability can work together — driving meaningful change through data-informed, cloud-powered solutions.  
+I believe technology and sustainability can work together, driving meaningful change through data-informed, cloud-powered solutions.  
 
 ---
 
