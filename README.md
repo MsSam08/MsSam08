@@ -11,7 +11,7 @@ With hands-on expertise in **AWS Cloud**, **data analytics**, and **infrastructu
 ## 🧠 **Core Expertise**
 
 - ☁️ **Cloud Architecture:** Designing secure, scalable, and cost-efficient solutions on AWS and Azure.  
-- 🧩 **Data Engineering:** Building data pipelines and integrating analytics workflows for smarter insights.  
+- 🧩 **Data Science and Engineering:** Building data pipelines and integrating analytics workflows for smarter insights.  
 - 🤖 **AI & Machine Learning:** Applying ML models to enhance automation, prediction, and decision support.  
 - ⚙️ **Infrastructure as Code (IaC):** Automating cloud deployments with Terraform and CI/CD pipelines.  
 - 🔐 **Security & Optimization:** Implementing IAM best practices, encryption, and performance tuning.  
