@@ -1,4 +1,4 @@
-# Hi, I'm **Euodia F. Sam** 
+
 
 ## Certified AWS Solutions Architect | Cloud & Data Engineer | AI/ML Practitioner
 
