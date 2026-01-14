@@ -34,7 +34,7 @@ Delivering **trustworthy, scalable data systems** that support analytics and AI 
 
 ### 🎯 Currently
 - Expanding expertise in **Artificial Intelligence & Machine Learning**, Networking, and **Azure Cloud**  
-- Actively building projects that demonstrate automation, analytics, and real-world problem-solving  
+- Actively building projects that demonstrate automation, analytics, and data engineering.
 
 ---
 
