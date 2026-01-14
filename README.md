@@ -1,32 +1,27 @@
 ### 👋 Hi, I'm **Euodia F. Sam** ☁️  
 
-### 🌩️ Certified AWS Solutions Architect | Cloud & Data Engineer | AI/ML Enthusiast  
+### 🌩️ Certified AWS Solutions Architect | Cloud & Data Engineer | AI/ML Practioner  
 
-I build solutions that combine **data-driven insights** with **scalable cloud technologies** helping organizations harness the power of **cloud and data** to drive efficiency, reliability, and smarter decision-making.  
+I build production-grade data platforms and pipelines that power analytics and ML workflows:
+• 🔧 Data Engineering (ETL/ELT, Pipelines, Workflow Orchestration, Data Modeling)
+• ☁️ Cloud & Distributed Systems (AWS, Azure, Cloud-Native Architectures)
+• 🤖 Applied AI & Machine Learning (ML Integration, Feature Pipelines, MLOps Foundations)
+• 🔄 Big Data Processing (Batch & Near-Real-Time Systems, Spark, Redshift, Airflow)
+• 🔍 Data Quality, Reliability & Observability
 
-With hands-on expertise in **AWS Cloud**, **data analytics**, and **infrastructure automation**, I design and implement solutions that balance **performance**, **security**, and **cost optimization**.
+🌟 Focus Areas
+Building scalable and reliable data systems with:
+• Cloud-native, automated data pipelines
+• Analytics-ready data layers and semantic models
+• ML-enabled workflows for prediction and automation
+• Operational observability and monitoring
+• Cost-efficient, secure, production-ready platforms
 
----
+🌟 Mission
+Delivering trustworthy, scalable data systems that support analytics and AI initiatives.
 
-## 🧠 **Core Expertise**
-
-- ☁️ **Cloud Architecture:** Designing secure, scalable, and cost-efficient solutions on AWS and Azure.  
-- 🧩 **Data Science and Engineering:** Building data pipelines and integrating analytics workflows for smarter insights.  
-- 🤖 **AI & Machine Learning:** Applying ML models to enhance automation, prediction, and decision support.  
-- ⚙️ **Infrastructure as Code (IaC):** Automating cloud deployments with Terraform and CI/CD pipelines.  
-- 🔐 **Security & Optimization:** Implementing IAM best practices, encryption, and performance tuning.  
-
----
-
-## 🛠️ **Tech Stack**
-
-**☁️ Cloud Platforms:** AWS • Azure  
-**🧱 Infrastructure & Automation:** Terraform • Docker • GitHub Actions • AWS CloudFormation  
-**💾 Data Engineering:** SQL • NoSQL (DynamoDB, MongoDB) • AWS Glue • AWS Redshift • Apache Airflow  
-**📊 Data Analytics:** Pandas • NumPy • Power BI • Tableau • AWS QuickSight  
-**🧠 AI / ML Tools:** Scikit-learn • TensorFlow • Jupyter Notebooks  
-**💻 Programming & Scripting:** Python • Bash • Linux  
-**🔍 Monitoring & Logging:** Amazon CloudWatch • AWS X-Ray • Azure Monitor  
+🏆 Certifications
+• ✅ AWS Certified Solutions Architect – Associate (SAA-C03)
 
 ---
 
