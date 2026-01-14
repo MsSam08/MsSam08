@@ -1,8 +1,8 @@
-# 👋 Hi, I'm **Euodia F. Sam** ☁️
+# Hi, I'm **Euodia F. Sam** 
 
-## 🌩️ Certified AWS Solutions Architect | Cloud & Data Engineer | AI/ML Practitioner
+## Certified AWS Solutions Architect | Cloud & Data Engineer | AI/ML Practitioner
 
-I build **production-grade data platforms and pipelines** that power analytics and ML workflows.
+I build production-grade data platforms and pipelines that power analytics and ML workflows.
 
 ---
 
@@ -11,7 +11,7 @@ I build **production-grade data platforms and pipelines** that power analytics a
 - **Cloud & Distributed Systems:** AWS, Azure, Cloud-Native Architectures  
 - **Applied AI & Machine Learning:** ML Integration, Feature Pipelines, MLOps Foundations  
 - **Big Data Processing:** Batch & Near-Real-Time Systems, Spark, Redshift, Airflow  
-- **Data Quality, Reliability & Observability**
+- **Data Quality & Pipeline Observability**
 
 ---
 
