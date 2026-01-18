@@ -20,10 +20,10 @@ I build production-grade data platforms and pipelines that power analytics and M
 
 ### 🌟 Focus Areas
 Building **scalable and reliable data systems** with:  
-- Cloud-native, automated data pipelines  
+- Cloud-native and automated data pipelines  
 - Analytics-ready data layers and semantic models  
 - ML-enabled workflows for prediction and automation  
-- Operational observability and monitoring  
+- Data quality, observability, and reproducibility in production systems  
 - Cost-efficient, secure, production-ready platforms  
 
 ---
@@ -36,6 +36,7 @@ Delivering **trustworthy, scalable data systems** that support analytics and AI 
 ### 🎯 Currently
 - Expanding expertise in **Artificial Intelligence & Machine Learning**, Networking, and **Azure Cloud**  
 - Actively building projects that demonstrate automation, analytics, and data engineering.
+- Leveraging these capabilities to support data-driven decision-making in the environmental and spatial domain.
 
 ---
 
