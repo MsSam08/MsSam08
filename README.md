@@ -7,13 +7,14 @@ I build production-grade data platforms and pipelines that power analytics and M
 ---
 
 ### 🔧 Core Expertise
-- Data Engineering: ETL/ELT, Pipelines, Workflow Orchestration, Data Modeling
+- Data Engineering: ETL/ELT, Pipelines, Workflow Orchestration, Data Modeling & Data Architecture
+- Data Warehousing & Analytics Platforms: Redshift, Cloud Data Warehouses, Dimensional Modeling
 - Cloud & Distributed Systems: AWS, Azure, Cloud-Native Architectures
 - Applied AI & Machine Learning: ML Integration, Feature Pipelines, MLOps Foundations
 - Big Data Processing: Batch & Near-Real-Time Systems, Spark, Redshift, Airflow
 - Data Quality & Pipeline Observability
 - Infrastructure as Code & CI/CD: Terraform, CloudFormation, GitHub Actions, Automated Testing
-- Containerization & Orchestration: Docker, Kubernetes (optional)
+- Containerization & Orchestration: Docker, Kubernetes 
 
 ---
 
