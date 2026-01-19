@@ -1,6 +1,6 @@
 
 
-## Certified AWS Solutions Architect | Cloud & Data Engineer | AI/ML Practitioner
+## Certified AWS Solutions Architect | Cloud & Data Engineer | AI/ML Engineer
 
 I build production-grade data platforms and pipelines that power analytics and ML workflows.
 
