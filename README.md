@@ -7,7 +7,7 @@ Data Scientist evolving into a Data Engineer, building scalable, reliable, and A
 
 ---
 
-### 🔧 Core Expertise
+### Core Expertise
 - Data Engineering: ETL/ELT, Pipelines, Workflow Orchestration, Data Modeling & Data Architecture
 - Data Warehousing & Analytics Platforms: Redshift, Cloud Data Warehouses, Dimensional Modeling
 - Cloud & Distributed Systems: AWS, Azure, Cloud-Native Architectures
@@ -19,7 +19,7 @@ Data Scientist evolving into a Data Engineer, building scalable, reliable, and A
 
 ---
 
-### 🌟 Focus Areas
+### Focus Areas
 Building **scalable and reliable data systems** with:  
 - Cloud-native and automated data pipelines  
 - Analytics-ready data layers and semantic models  
@@ -29,19 +29,19 @@ Building **scalable and reliable data systems** with:
 
 ---
 
-### 🌟 Mission
+### Mission
 Delivering **trustworthy, scalable data systems** that support analytics and AI initiatives.
 
 ---
 
-### 🎯 Currently
+### Currently
 - Expanding expertise in **Artificial Intelligence & Machine Learning**, Networking, and **Azure Cloud**  
 - Actively building projects that demonstrate machine learning, analytics, and data engineering.
 - Leveraging these capabilities to support data-driven decision-making in the environmental and spatial domain.
 
 ---
 
-### 🌍 Beyond Tech
+### Beyond Tech
 🌿 **Environmentalist** • 💼 **Entrepreneur** • ✍️ **Writer**  
 
 I believe technology and sustainability can work together, driving meaningful change through **data-informed, cloud-powered solutions**.
@@ -49,14 +49,14 @@ I believe technology and sustainability can work together, driving meaningful ch
 ---
 
 ### 🏆 Certifications
-- ✅ AWS Certified Solutions Architect – Associate (SAA-C03)  
+- AWS Certified Solutions Architect – Associate (SAA-C03)  
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/euodia-sam-7b73121a7)  
 - 📧 Email: euodiasam@gmail.com  
 
 ---
 
-⭐ *Heya! Let’s collaborate on impactful projects in Cloud, Data, and AI.*
+ *Heya! Let’s collaborate on impactful projects in Cloud, Data, and AI.*
