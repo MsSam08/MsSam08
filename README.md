@@ -42,20 +42,20 @@ Delivering **trustworthy, scalable data systems** that support analytics and AI 
 ---
 
 ### Beyond Tech
-🌿 **Environmentalist** • 💼 **Entrepreneur** • ✍️ **Writer**  
+ **Environmentalist** •  **Entrepreneur** •  **Writer**  
 
 I believe technology and sustainability can work together, driving meaningful change through **data-informed, cloud-powered solutions**.
 
 ---
 
-### 🏆 Certifications
+### Certifications
 - AWS Certified Solutions Architect – Associate (SAA-C03)  
 
 ---
 
 ### Connect with Me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/euodia-sam-7b73121a7)  
-- 📧 Email: euodiasam@gmail.com  
+-  Email: euodiasam@gmail.com  
 
 ---
 
