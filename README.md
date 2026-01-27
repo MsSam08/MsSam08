@@ -1,8 +1,9 @@
 
 
-## Data Engineer | AI/ML practitioner | Certified AWS Solutions Architect 
+## Data Engineer | AI/ML Engineer | Certified AWS Solutions Architect 
 
-I build production-grade data platforms and pipelines that power analytics and ML workflows.
+Data Scientist evolving into a Data Engineer, building scalable, reliable, and AI/ML-enabled data systems.
+
 
 ---
 
@@ -22,7 +23,7 @@ I build production-grade data platforms and pipelines that power analytics and M
 Building **scalable and reliable data systems** with:  
 - Cloud-native and automated data pipelines  
 - Analytics-ready data layers and semantic models  
-- ML-enabled workflows for prediction and automation  
+- AI and ML-enabled workflows for prediction, automation, and insights
 - Data quality, observability, and reproducibility in production systems  
 - Cost-efficient, secure, production-ready platforms  
 
@@ -35,7 +36,7 @@ Delivering **trustworthy, scalable data systems** that support analytics and AI 
 
 ### 🎯 Currently
 - Expanding expertise in **Artificial Intelligence & Machine Learning**, Networking, and **Azure Cloud**  
-- Actively building projects that demonstrate automation, analytics, and data engineering.
+- Actively building projects that demonstrate machine learning, analytics, and data engineering.
 - Leveraging these capabilities to support data-driven decision-making in the environmental and spatial domain.
 
 ---
