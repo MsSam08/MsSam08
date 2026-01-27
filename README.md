@@ -54,7 +54,7 @@ I believe technology and sustainability can work together, driving meaningful ch
 ---
 
 ### Connect with Me
-- 🔗 [LinkedIn](https://www.linkedin.com/in/euodia-sam-7b73121a7)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/euodiasam?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
 -  Email: euodiasam@gmail.com  
 
 ---
