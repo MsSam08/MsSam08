@@ -12,15 +12,6 @@
 - Observability & Quality: Data quality, monitoring, and pipeline reliability
 - DevOps & Infrastructure: Terraform, CloudFormation, CI/CD, Docker, Kubernetes
 
----
-
-### Focus Areas
-Building **scalable and reliable data systems** with:  
-- Cloud-native and automated data pipelines  
-- Analytics-ready data layers and semantic models  
-- AI and ML-enabled workflows for prediction, automation, and insights
-- Data quality, observability, and reproducibility in production systems  
-- Cost-efficient, secure, production-ready platforms  
 
 ---
 
