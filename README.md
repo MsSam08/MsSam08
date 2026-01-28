@@ -4,14 +4,12 @@
 
 
 ### Core Expertise
-- Data Engineering: ETL/ELT, Pipelines, Workflow Orchestration, Data Modeling & Data Architecture
-- Data Warehousing & Analytics Platforms: Redshift, Cloud Data Warehouses, Dimensional Modeling
-- Cloud & Distributed Systems: AWS, Azure, Cloud-Native Architectures
-- Applied AI & Machine Learning: ML Integration, Feature Pipelines, MLOps Foundations
-- Big Data Processing: Batch & Near-Real-Time Systems, Spark, Redshift, Airflow
-- Data Quality & Pipeline Observability
-- Infrastructure as Code & CI/CD: Terraform, CloudFormation, GitHub Actions, Automated Testing
-- Containerization & Orchestration: Docker, Kubernetes 
+**Data Engineering (AI/ML) Skills:**
+	•	Data Platforms & Pipelines: ETL/ELT, workflow orchestration, data modeling, and cloud data architecture
+	•	Cloud, Big Data & Distributed Systems: AWS/Azure, Redshift, Spark, batch & near-real-time processing, distributed architectures
+	•	Machine Learning Integration: Feature pipelines, MLOps foundations, production ML workflows
+	•	Observability & Quality: Data quality, monitoring, and pipeline reliability
+	•	DevOps & Infrastructure: Terraform, CloudFormation, CI/CD, Docker, Kubernetes
 
 ---
 
