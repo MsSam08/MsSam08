@@ -8,7 +8,7 @@
 	
 - Data Platforms & Pipelines: ETL/ELT, workflow orchestration, data modeling, and cloud data architecture
 - Cloud, Big Data & Distributed Systems: AWS/Azure, Redshift, Spark, batch & near-real-time processing, distributed architectures
-- Machine Learning Integration: Feature pipelines, MLOps foundations, production ML workflows
+- AI & Machine Learning Integration: Feature pipelines, MLOps foundations, production ML workflows
 - Observability & Quality: Data quality, monitoring, and pipeline reliability
 - DevOps & Infrastructure: Terraform, CloudFormation, CI/CD, Docker, Kubernetes
 
