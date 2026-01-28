@@ -2,7 +2,7 @@
 
 ## Data Engineer | AI/ML Engineer | Certified AWS Solutions Architect 
 
-
+Data Scientist evolving into a Data Engineer, building scalable, reliable, and AI/ML-enabled data systems.
 ---
 
 ### Core Expertise
