@@ -1,16 +1,18 @@
 
 
-## Data Engineer | AI/ML Engineer | Certified AWS Solutions Architect 
+## AI/ML Engineer | Data Engineer | Certified AWS Solutions Architect 
 
 
 ### Core Expertise
-**Data Engineering (AI/ML) Skills:**
+ **AI/ML & Data Engineering Skills:**
 	
-- Data Platforms & Pipelines: ETL/ELT, workflow orchestration, data modeling, and cloud data architecture
-- Cloud, Big Data & Distributed Systems: AWS/Azure, Redshift, Spark, batch & near-real-time processing, distributed architectures
-- AI & Machine Learning Integration: Feature pipelines, MLOps foundations, production ML workflows
-- Observability & Quality: Data quality, monitoring, and pipeline reliability
-- DevOps & Infrastructure: Terraform, CloudFormation, CI/CD, Docker, Kubernetes
+- Machine Learning Engineering: End-to-end ML pipelines, model training, evaluation, deployment, and monitoring in production environments
+- Applied AI & MLOps: Feature engineering pipelines, experiment tracking, model versioning, CI/CD for ML, and scalable inference systems
+- Data Engineering for ML: ETL/ELT pipelines, workflow orchestration, data modeling, and analytics-ready datasets for machine learning
+- Cloud & Distributed Systems: AWS/Azure, Spark, Redshift, batch and near-real-time processing, distributed data platforms
+- Production AI Systems: Building reliable ML-enabled applications, automation workflows, and prediction services
+- Observability & Quality: Data validation, ML monitoring, pipeline reliability, and performance tracking
+- DevOps & Infrastructure: Terraform, CloudFormation, Docker, Kubernetes, and cloud-native CI/CD**
 
 
 ---
