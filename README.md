@@ -3,7 +3,7 @@
 ## AI/ML Engineer | Data Engineer | Certified AWS Solutions Architect 
 
 
-### Core Expertise
+### Core Focus
  **AI/ML & Data Engineering Skills:**
 	
 - Machine Learning Engineering: End-to-end ML pipelines, model training, evaluation, deployment, and monitoring in production environments
@@ -29,7 +29,7 @@ Delivering **trustworthy, scalable data systems** that support analytics and AI 
 
 ---
 
-### Beyond Tech
+### Beyond Tech🌍
  **Environmentalist** •  **Entrepreneur** •  **Writer**  
 
 I believe technology and sustainability can work together, driving meaningful change through **data-informed, cloud-powered solutions**.
