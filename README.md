@@ -50,4 +50,4 @@ I believe technology and sustainability can work together, driving meaningful ch
 
 ---
 
- *Heya! Let’s collaborate on impactful projects in Cloud, Data, and AI.*
+ *Heya! Thanks for passing by.
