@@ -2,17 +2,20 @@
 
 ## AI/ML Engineer | Data Engineer | Certified AWS Solutions Architect 
 
+## Core Focus
 
-### Core Focus
- **AI/ML & Data Engineering Skills:**
-	
-- Machine Learning Engineering: End-to-end ML pipelines, model training, evaluation, deployment, and monitoring in production environments
-- Applied AI & MLOps: Feature engineering pipelines, experiment tracking, model versioning, CI/CD for ML, and scalable inference systems
-- Data Engineering for ML: ETL/ELT pipelines, workflow orchestration, data modeling, and analytics-ready datasets for machine learning
-- Cloud & Distributed Systems: AWS/Azure, Spark, Redshift, batch and near-real-time processing, distributed data platforms
-- Production AI Systems: Building reliable ML-enabled applications, automation workflows, and prediction services
-- Observability & Quality: Data validation, ML monitoring, pipeline reliability, and performance tracking
-- DevOps & Infrastructure: Terraform, CloudFormation, Docker, Kubernetes, and cloud-native CI/CD**
+I build end-to-end machine learning systems supported by scalable data pipelines and cloud infrastructure. My work spans model development through deployment, with a focus on production-ready AI applications.
+
+I specialize in combining machine learning, data engineering, and cloud platforms to deliver reliable, automated ML workflows.
+
+Technical Areas
+- Machine Learning Engineering: End-to-end ML pipelines, model training, evaluation, deployment, and monitoring
+- Applied AI & MLOps: Feature pipelines, experiment tracking, model versioning, CI/CD for ML, scalable inference
+- Data Engineering for ML: ETL/ELT pipelines, workflow orchestration, data modeling, analytics-ready datasets
+- Cloud & Distributed Systems: AWS/Azure, Spark, Redshift, batch and near-real-time processing
+- Production AI Systems: ML-enabled applications, automation workflows, prediction services
+- Observability & Quality: Data validation, ML monitoring, pipeline reliability, performance tracking
+- DevOps & Infrastructure: Terraform, CloudFormation, Docker, Kubernetes, cloud-native CI/CDnd cloud-native CI/CD**
 
 
 ---
