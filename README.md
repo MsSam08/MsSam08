@@ -15,7 +15,7 @@ I specialize in combining machine learning, data engineering, and cloud platform
 - **Cloud & Distributed Systems:** AWS/Azure, Spark, Redshift, batch and near-real-time processing
 - **Production AI Systems:** ML-enabled applications, automation workflows, prediction services
 - **Observability & Quality:** Data validation, ML monitoring, pipeline reliability, performance tracking
-- **DevOps & Infrastructure:** Terraform, CloudFormation, Docker, Kubernetes, cloud-native CI/CDnd cloud-native CI/CD**
+- **DevOps & Infrastructure:** Terraform, CloudFormation, Docker, Kubernetes, cloud-native CI/CDnd cloud-native CI/CD
 
 
 ---
