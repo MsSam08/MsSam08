@@ -50,4 +50,4 @@ I believe technology and sustainability can work together, driving meaningful ch
 
 ---
 
- *Heya! Thanks for passing by.
+ *Heya! Thanks for passing by.*
