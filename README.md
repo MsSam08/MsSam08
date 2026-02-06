@@ -1,6 +1,6 @@
 
 
-## AI/ML Engineer | Data Engineer | Certified AWS Solutions Architect 
+## AI/ML Engineer | Data Scientist | Certified AWS Solutions Architect 
 
 ## Core Focus
 
