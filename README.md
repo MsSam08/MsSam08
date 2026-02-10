@@ -4,7 +4,7 @@
 
 ## Core Focus
 
-I build end-to-end machine learning systems supported by scalable data pipelines and cloud infrastructure. My work spans model development through deployment, with a focus on production-ready AI applications.
+I build end-to-end machine learning systems supported by scalable data pipelines and cloud infrastructure. My work spans model development to deployment, with a focus on production-ready AI applications.
 
 I specialize in combining machine learning, data engineering, and cloud platforms to deliver reliable, automated ML workflows.
 
