@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/euodiasam?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://medium.com/@euodiasam"><img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium"></a>
+  <a href="https://medium.com/@euodiasam"><img src="https://img.shields.io/badge/Medium-My_Profile-black?style=for-the-badge&logo=medium"></a>
   <a href="mailto:euodiasam@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
