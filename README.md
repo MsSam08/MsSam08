@@ -1,15 +1,11 @@
 ## Hi there, I'm Euodia Frempomaa Sam
-## AI/ML Engineer | Data Scientist | Certified AWS Solutions Architect 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Data+Scientist+(AI/ML)+%7C+Cloud+Engineer;Architecting+End-to-End+Machine+Learning+Systems;MLOps+%26+Scalable+AI+Infrastructure;From+Data+to+Deployment" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=750&lines=AI%2FML+Engineer+%7C+AWS+Solutions+Architect;Designing+Scalable+AI+Systems+in+the+Cloud;MLOps+%26+CI%2FCD+for+Production+ML;Turning+Data+into+Intelligent+Cloud+Solutions" alt="Typing SVG" />
 </div>
 
-
-
-<!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/euodiasam?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
