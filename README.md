@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/euodiasam?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="https://medium.com/@euodiasam"><img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium"></a>
+  <a href="mailto:euodiasam@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ## Core Focus
@@ -35,7 +35,7 @@ Delivering **trustworthy, scalable data systems** that support analytics and AI 
 
 ### Currently
 - Expanding expertise in **Artificial Intelligence & Machine Learning**, Networking, and **Azure Cloud**  
-- Actively building projects that demonstrate artificial intelligence and machine learning, analytics and some on cloud & data engineering.
+- Actively building projects that demonstrate artificial intelligence and machine learning, analytics, cloud and data engineering.
 - Leveraging these capabilities to support data-driven decision-making in the environmental and humanitarian projects..
 
 ---
@@ -48,7 +48,7 @@ I believe technology and sustainability can work together, driving meaningful ch
 ---
 
 ### Certifications
-- AWS Certified Solutions Architect – Associate (SAA-C03)  
+- AWS Certified Solutions Architect – Associate 
 
 ---
 
