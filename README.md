@@ -2,10 +2,9 @@
 ## AI/ML Engineer | Data Scientist | Certified AWS Solutions Architect 
 
 <div align="center">
-  <!--  You can customize the typing text in the "lines=" section of the URL below -->
-  <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Scientist(AI/ML)+%7C+Cloud+Engineer;Turning+Data+into+Intelligent+Cloud+Solutions;[MLOps+&+CI/CD+for+ML+Systems];[Your+Experience+or+Tagline]" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=AI+Systems+Engineer+%7C+Cloud+Architect;Architecting+End-to-End+Machine+Learning+Systems;MLOps+%26+Scalable+AI+Infrastructure;From+Data+to+Deployment" alt="Typing SVG" />
 </div>
+
 
 
 <!-- 🔗 Update these links with your own social media and contact information -->
