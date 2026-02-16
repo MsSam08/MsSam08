@@ -35,7 +35,7 @@ Delivering **trustworthy, scalable data systems** that support analytics and AI 
 
 ### Currently
 - Expanding expertise in **Artificial Intelligence & Machine Learning**, Networking, and **Azure Cloud**  
-- Actively building projects that demonstrate artificial intelligence and machine learning, analytics, and cloud & data engineering.
+- Actively building projects that demonstrate artificial intelligence and machine learning, analytics and some on cloud & data engineering.
 - Leveraging these capabilities to support data-driven decision-making in the environmental and humanitarian projects..
 
 ---
