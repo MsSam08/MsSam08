@@ -29,7 +29,7 @@ I specialize in combining machine learning, data engineering, and cloud platform
 ---
 
 ### Mission
-Delivering **trustworthy, scalable data systems** that support analytics and AI initiatives.
+Designing and delivering high-performance data and AI systems, from insight to action.
 
 ---
 
