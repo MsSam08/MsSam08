@@ -2,7 +2,7 @@
 ## AI/ML Engineer | Data Scientist | Certified AWS Solutions Architect 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=AI+Systems+Engineer+%7C+Cloud+Architect;Architecting+End-to-End+Machine+Learning+Systems;MLOps+%26+Scalable+AI+Infrastructure;From+Data+to+Deployment" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Data+Scientist+(AI/ML)+%7C+Cloud+Engineer;Architecting+End-to-End+Machine+Learning+Systems;MLOps+%26+Scalable+AI+Infrastructure;From+Data+to+Deployment" alt="Typing SVG" />
 </div>
 
 
